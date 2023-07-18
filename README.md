@@ -14,18 +14,6 @@ Select what you want to receive in your Telegram channel using the **Trigger** t
 
 Check all the available templates [here](templates).
 
-
-## Spanish templates
-
-* [Empezar a reproducir](templates/es/playback-start-es)
-* [Detener por completo reproducción](templates/es/playback-stop-es)
-* [Pausar reproducción](templates/es/playback-pause-es)
-* [Volver con la reproduccion](templates/es/playback-resume-es)
-* [Reproducción finalizada](templates/es/watched-es)
-* [Añadido recientemente](templates/es/recently-added-es)
-
-## English templates
-
 * [Playback start](templates/en/playback-start-en)
 * [Playback stop](templates/en/playback-stop-en)
 * [Playback pause](templates/en/playback-pause-en)
