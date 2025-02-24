@@ -1,6 +1,6 @@
 ## Tautulli notification templates, in order to inform you about any Plex library changes through a Telegram channel or group.
 
-They are both in Spanish and English. Each of them should be added in the Notification Agents settings. 
+Each of them should be added in the Notification Agents settings. 
 First of all, you need to get some easy Telegram info:
 
 * Get a new token, contacting with [@BotFather](https://telegram.me/BotFather "@BotFather Telegram bot")
